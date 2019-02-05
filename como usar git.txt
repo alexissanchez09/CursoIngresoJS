@@ -1,2 +1,4 @@
 1- clono
 git clone repo https://github.com/alexissanchez09/CursoIngresoJS.git
+2-  agrego nuevos archivos
+git add .
